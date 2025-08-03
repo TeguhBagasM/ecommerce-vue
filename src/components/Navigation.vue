@@ -1,7 +1,7 @@
 <template>
   <nav class="bg-blue-600 text-white p-4">
     <div class="container mx-auto flex justify-between items-center">
-      <h1 class="text-xl font-bold">Vue E-commerce</h1>
+      <h1 class="text-xl font-bold">Bahara Shop</h1>
       <div class="flex space-x-4">
         <router-link
           to="/products"
