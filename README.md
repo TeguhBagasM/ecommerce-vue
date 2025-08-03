@@ -38,6 +38,7 @@ npm atau yarn
 Backend Spring Boot berjalan di http://localhost:8080/api (lihat README backend untuk detail)
 Git (opsional, untuk cloning repository)
 
+Link Backend <https://github.com/TeguhBagasM/test-magang-tabeldata-ecommerce>
 🔧 Instalasi
 
 Clone Repository (jika menggunakan Git):
